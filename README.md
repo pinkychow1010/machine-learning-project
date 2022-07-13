@@ -9,32 +9,34 @@ This repository is to serve as a general overview of the standalone data science
   
 ## Unsupervised Machine Learning
 
-- [Clustering]()
+- [Clustering](https://github.com/pinkychow1010/machine-learning-project/tree/main/clustering-active-fire-detection)
   - Active Fire clustering.
  
 
 ## Visualizations
 
-- [Dashboard]()
+- [Geospatial]()
   - Visualized geospatial data using pandas, seaborn, matplotlib, numpy and folium.
 
 
-## Natural Language Processing (NLP)
+## Spatial Modelling
 
-[comment]: # digital chinese history
+- [Home Range Analysis](https://github.com/pinkychow1010/HomeRangeAnalysis)
+
+- [SDM]()
+
+## Natural Language Processing (NLP)
 
 - Digital Chinese History
   - Chinese Text Analysis
 
 ## Dashboard
 
-[comment]: # R
 - Data Dashboard
   - Created a geospatial dashboard using flexdashboard generate visualizations for Gorillas' home range.
 
 ## Image Processing
 
-[comment]: # 
 - Snow Cover Product
   - Developed a snow classification scheme on long-term AVHRR satellite data with spatial and temporal filters
   - Integration test using pytest
