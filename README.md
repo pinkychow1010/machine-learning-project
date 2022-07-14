@@ -13,7 +13,7 @@ This repository is to serve as a general overview of the standalone data science
 
 ## Unsupervised Machine Learning
 
-- [Clustering](https://github.com/pinkychow1010/machine-learning-project/tree/main/clustering-active-fire-detection)
+- [Clustering](https://github.com/pinkychow1010/VIIRS_Thermal_Fire_Detection)
   - Active Fire clustering.
  
 
