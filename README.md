@@ -7,7 +7,7 @@ This repository is to serve as a general overview of the standalone data science
 - [Paddy Doctor: Paddy Disease Classification](https://github.com/pinkychow1010/machine-learning-project/tree/main/EfficientNet-rice-disease-detection)
   - Classification challenge on rice paddy images where different dieseases were the class of interest. I spent most of my time on the exploratory data analysis (EDA) and used a deep learning model built on EfficientNet for my submission, where classification accuracy on validation and testing data ranges from 97% to 98%.
 
-- [Happywhale - Whale and Dolphin Identification]()
+- [Happywhale - Whale and Dolphin Identification](https://github.com/pinkychow1010/machine-learning-project/tree/main/CNN-whale-fin-identification)
   - Identify whales and dolphins by unique characteristics
   
 
@@ -19,7 +19,7 @@ This repository is to serve as a general overview of the standalone data science
 
 ## Visualizations
 
-- [Geospatial]()
+- [Geospatial](https://github.com/pinkychow1010/Burkina_Faso_Inland_Water_Bodies_Time_Series)
   - Visualized geospatial data using pandas, seaborn, matplotlib, numpy and folium.
 
 
@@ -27,11 +27,13 @@ This repository is to serve as a general overview of the standalone data science
 
 - [Home Range Analysis](https://github.com/pinkychow1010/HomeRangeAnalysis)
 
-- [SDM]()
+- SDM
 
 ## Natural Language Processing (NLP)
 
-- [Digital Chinese History](https://github.com/pinkychow1010/digital-chinese-history-blog)
+- Disaster Tweets
+
+- [Digital Chinese History Blog](https://github.com/pinkychow1010/digital-chinese-history-blog)
   - Chinese Text Analysis
 
 ## Dashboard
@@ -41,8 +43,8 @@ This repository is to serve as a general overview of the standalone data science
 
 ## Image Processing
 
-- [Snow Cover Product]()
+- Snow Cover Product
   - Developed a snow classification scheme on long-term AVHRR satellite data with spatial and temporal filters
   - Integration test using pytest
 
-- [Time Series Analysis](https://github.com/pinkychow1010/Burkina_Faso_Inland_Water_Bodies_Time_Series)
+- [Time Series Analysis](https://github.com/pinkychow1010/Priestley_Glacier_GNSS_Positioning_Assessment)
